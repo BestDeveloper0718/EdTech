@@ -1,0 +1,17 @@
+.date-text{
+	font-weight: 600;
+	color: darkblue;
+}
+.account-title{
+	width: 100%;
+	text-align: center;
+	color: white;
+}
+.balance-text{
+	color: black;
+}
+.balance-text span{
+	padding-left: 1rem;
+	font-weight: 600;
+	color: darkgreen;
+}
